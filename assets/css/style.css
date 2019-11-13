@@ -130,6 +130,120 @@ ul.nav>li>a:hover {
     border-radius: 30px 30px 0 0;
 }
 
+.pilares {
+    padding: 50px 0 10px;
+}
+.pilares h1 {
+    font-size: 28px;
+    color: #e65d3c;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin: 0 0 30px;
+}
+.pilares p.text-center {
+    font-size: 16px;
+    color: #282828;
+    margin: 0 0 40px;
+}
+.pilares h2 {
+    font-size: 26px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 0 15px;
+}
+.pilares img {
+    margin-right: 20px;
+}
+.pilares .item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.pilares .item .content:after {
+    content: "";
+    width: 140px;
+    height: 5px;
+    border-radius: 5px;
+    display: block;
+}
+.pilares .item p {
+    font-size: 16px;
+    color: #282828;
+    margin: 0 0 10px;
+}
+.pilares .item1 h2 {
+    color: #f2dc05;
+}
+.pilares .item1 .content:after {
+    background: #f2dc05;
+}
+.pilares .item2 h2 {
+    color: #abc675;
+}
+.pilares .item2 .content:after {
+    background: #abc675;
+}
+.pilares .item3 h2 {
+    color: #d79906;
+}
+.pilares .item3 .content:after {
+    background: #d79906;
+}
+.pilares .item4 h2 {
+    color: #4b4287;
+}
+.pilares .item4 .content:after {
+    background: #4b4287;
+}
+
+.download {
+    background: url(../images/bg-download.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 315px;
+}
+
+.minha-casa {
+    padding: 60px 0;
+}
+.minha-casa h1 {
+    font-size: 28px;
+    color: #4b4287;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin: 0 0 30px;
+}
+.minha-casa strong {
+    color: #4b4287;
+}
+.minha-casa p {
+    font-size: 16px;
+    color: #282828;
+    margin: 0 0 15px;
+}
+.minha-casa img {
+    border-radius: 0 0 60px 0;
+}
+.minha-casa a {
+    font-size: 14px;
+    color: #efd6a5;
+    text-transform: uppercase;
+    display: table;
+    padding: 10px 40px;
+    background: #4b4287;
+    border-radius: 50px;
+    margin: 30px auto 0;
+}
+.minha-casa a:hover {
+    background: #000;
+}
+
+.experiencia {
+    padding: 60px 0;
+    background: #e65d3c;
+}
+
 /* --- MOBILE --- */
 @media (max-width: 767px) {
     #bs-example-navbar-collapse-1 {
