@@ -74,10 +74,33 @@
 		</div><!-- container -->
 	</section><!-- minha-casa -->
 
-	<section class="minha-casa">
+	<section class="experiencia">
 		<div class="container">
-			<h1 class="text-center">MINHA SEGUNDA CASA</h1>
+			<h1 class="text-center">A EXPERIêNCIA COM A PRIMERIA INFÂNCIA É...</h1>
+			<iframe width="80%" height="400" src="https://www.youtube.com/embed/aVS4W7GZSq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<div class="owl-carousel owl-theme owl-depoimentos">
+				<div class="item">
+					<img src="assets/images/aspas1.png" class="aspas1">
+					<p>a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d.</p>
+					<p><strong>a kjsn dasda sdas</strong><br /><i>Psicologia</i></p>
+					<img src="assets/images/aspas2.png" class="aspas2">
+				</div><!-- item -->
+				<div class="item">
+					<img src="assets/images/aspas1.png" class="aspas1">
+					<p>a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d.</p>
+					<p><strong>a kjsn dasda sdas</strong><br /><i>Psicologia</i></p>
+					<img src="assets/images/aspas2.png" class="aspas2">
+				</div><!-- item -->
+				<div class="item">
+					<img src="assets/images/aspas1.png" class="aspas1">
+					<p>a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d.</p>
+					<p><strong>a kjsn dasda sdas</strong><br /><i>Psicologia</i></p>
+					<img src="assets/images/aspas2.png" class="aspas2">
+				</div><!-- item -->
+			</div><!-- owl-carousel -->
 		</div><!-- container -->
-	</section><!-- minha-casa -->
+	</section><!-- experiencia -->
+	
+	<img src="assets/images/bg-depoimentos.jpg" class="img-responsive img-geral">
 	
 <?php include 'components/footer.php'; ?>
