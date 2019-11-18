@@ -522,6 +522,18 @@ footer li>a:hover {
     margin: 0 auto 30px;
 }
 
+.estrutura h2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #4b4287;
+    margin: 0 auto 30px;
+}
+.estrutura ul>li {
+    font-weight: bold;
+    color: #4b4287;
+    margin: 10px 0;
+}
+
 /* --- MOBILE --- */
 @media (max-width: 767px) {
     .topo .btn-aluno {

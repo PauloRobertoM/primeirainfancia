@@ -17,7 +17,8 @@
                     <li>
                         <a href="#">PRIMEIRA INFÂNCIA</a>
                         <ul class="sub-menu">
-                            <li><a href="<?php echo site_url('diferenciais'); ?>">HISTÓRIA</a></li>
+                            <li><a href="<?php echo site_url('diferenciais'); ?>">por que a primeira infância?</a></li>
+                            <li><a href="<?php echo site_url('pedagogia'); ?>">Proposta Pedagógica</a></li>
                             <li><a href="<?php echo site_url('equipe'); ?>">EQUIPE</a></li>
                         </ul>
                     </li>
@@ -32,7 +33,7 @@
                     <li><a href="<?php echo site_url('atividade'); ?>">ATIVIDADES</a></li>
                     <li><a href="<?php echo site_url(''); ?>">CALENDÁRIO</a></li>
                     <li><a href="<?php echo site_url(''); ?>">BLOG</a></li>
-                    <li><a href="<?php echo site_url(''); ?>">CONTATO</a></li>
+                    <li><a href="<?php echo site_url('contato'); ?>">CONTATO</a></li>
                 </ul><!-- .nav -->
             </div><!-- .navbar-collapse -->
         </div><!-- container -->

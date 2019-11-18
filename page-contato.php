@@ -1,22 +1,46 @@
 <?php get_header(); ?>
 
-	<section class="titulo-interno">
-		<div class="container">
-			<a href="index.php"><i class="fa fa-angle-left" aria-hidden="true"></i> Contato</a>
-		</div><!-- container -->
-	</section><!-- titulo-interno -->
+    <section class="titulo-interno">
+        <h1>Atividades</h1>
+        <ul>
+            <li><a href="">hOME</a></li>
+            <li><a href="">CONTATO</a></li>
+        </ul>
+    </section><!-- titulo-interno -->
 
-	<section class="interna contato">
-		<div class="container">
-			<h2>Deixe sua mensagem</h2>
-			<form id="_form_contato">
-			    <div id="_contato_callbacks"></div>
-                <input type="text" name="nome" id="contato_nome" class="form-control" placeholder="seu nome">
-                <input type="email" name="email" id="contato_email" class="form-control" placeholder="seu e-mail">
-                <textarea name="mensagem" id="contato_mensagem" class="form-control" placeholder="mensagem"></textarea>
-                <button type="submit" name="action">enviar</button>
-            </form>
-		</div><!-- container -->
-	</section><!-- interna -->
+    <section class="interna turmas atividades">
+        <div class="container">
+            <div class="row">
+            	<div class="col-md-6 col-sm-6">
+            		<form action="">
+            			<div class="form-group">
+            				<label for="nome">Nome</label>
+            				<input type="text" name="nome" class="form-control">
+            			</div><!-- form-group -->
+            			<div class="form-group">
+            				<label for="email">Email</label>
+            				<input type="email" name="email" class="form-control">
+            			</div><!-- form-group -->
+            			<div class="form-group">
+            				<label for="telefone">Telefone</label>
+            				<input type="text" name="telefone" class="form-control" placeholder="Nome">
+            			</div><!-- form-group -->
+            			<div class="form-group">
+            				<label for="assunto">Assunto</label>
+            				<select name="assunto" id="assunto" class="form-control">
+            					<option value="">Matrícula</option>
+            					<option value="">Matrícula</option>
+            					<option value="">Matrícula</option>
+            				</select>
+            			</div><!-- form-group -->
+            			<div class="form-group">
+            				<label for="mensagem">Mensagem</label>
+            				<textarea name="mensagem" id="" cols="30" rows="10" class="form-control"></textarea>
+            			</div><!-- form-group -->
+            		</form>
+            	</div><!-- md-6 -->
+            </div><!-- row -->
+        </div><!-- container -->
+    </section><!-- interna -->
 
 <?php get_footer(); ?>
