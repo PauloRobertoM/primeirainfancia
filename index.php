@@ -14,7 +14,7 @@
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/item1.png">
                         <div class="content">
                             <h2>CRIANÇA</h2>
-                            <p>dasda sdasdasd asdas das dasdasda.</p>
+                            <p>As crianças dão sentido a tudo que fazemos. Buscamos que se sintam felizes, confiantes e cuidadas pois, a dedicação é 100% para elas.</p>
                         </div><!-- content -->
                     </div><!-- item -->
                 </div><!-- md-6 -->
@@ -22,8 +22,8 @@
                     <div class="item item2">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/item2.png">
                         <div class="content">
-                            <h2>CRIANÇA</h2>
-                            <p>dasda sdasdasd asdas das dasdasda.</p>
+                            <h2>Educação</h2>
+                            <p>A educação por meio de brincadeiras, estimula a criatividade e faz com que o futuro seja promissor.</p>
                         </div><!-- content -->
                     </div><!-- item -->
                 </div><!-- md-6 -->
@@ -31,8 +31,8 @@
                     <div class="item item3">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/item3.png">
                         <div class="content">
-                            <h2>CRIANÇA</h2>
-                            <p>dasda sdasdasd asdas das dasdasda.</p>
+                            <h2>Acolhimento</h2>
+                            <p>Acreditamos que o acolhimento gera amor, proteção e segurança. Por isso, priorizamos o atendimento humanizado e próximo da família.</p>
                         </div><!-- content -->
                     </div><!-- item -->
                 </div><!-- md-6 -->
@@ -40,19 +40,19 @@
                     <div class="item item4">
                         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/item4.png">
                         <div class="content">
-                            <h2>CRIANÇA</h2>
-                            <p>dasda sdasdasd asdas das dasdasda.</p>
+                            <h2>Equipe</h2>
+                            <p>E para que tudo isso funcione bem, temos uma equipe unida e comprometida.</p>
                         </div><!-- content -->
                     </div><!-- item -->
                 </div><!-- md-6 -->
             </div><!-- row -->
-        </div><!-- container -->
     </section><!-- pilares -->
 
     <section class="download">
         <div class="container">
-            <a href=""><img src="<?php echo get_template_directory_uri(); ?>/assets/images/corpo-download.png" class="img-responsive"></a>
+            <a class="hidden-xs" href=""><img src="<?php echo get_template_directory_uri(); ?>/assets/images/corpo-download.png" class="img-responsive"></a>
         </div><!-- container -->
+        <a class="visible-xs" href=""><img src="<?php echo get_template_directory_uri(); ?>/assets/images/corpo-download-mob.jpg" class="img-responsive"></a>
     </section><!-- download -->
 
     <section class="minha-casa">
@@ -111,7 +111,5 @@
             </div><!-- owl-carousel -->
         </div><!-- container -->
     </section><!-- experiencia -->
-    
-    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/bg-depoimentos.jpg" class="img-responsive img-geral">
 
 <?php get_footer(); ?>

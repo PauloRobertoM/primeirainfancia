@@ -8,21 +8,31 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="<?php echo site_url('/'); ?>"><img class="logo" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-qd.png" alt="Logo" /></a>
+                <a class="navbar-brand" href="<?php echo site_url('/'); ?>"><img class="logo" src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-primeira-infancia.png" alt="Logo" /></a>
             </div><!-- .navbar-header -->
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="<?php echo site_url('quem-somos'); ?>">QUEM SOMOS</a></li>
-                    <li><a href="<?php echo site_url('tutoriais'); ?>">TUTORIAIS</a></li>
-                    <li><a href="<?php echo site_url('noticias-e-eventos'); ?>">NOTÍCIAS E EVENTOS</a></li>
-                    <li><a href="<?php echo site_url('avaliacoes'); ?>">AVALIAÇÕES</a></li>
-                    <li><a href="<?php echo site_url('videos'); ?>">VÍDEOS</a></li>
-                    <li><a href="<?php echo site_url('contato'); ?>">CONTATO</a></li>
-                    <li class="redes-sociais">
-                        <a href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                        <a href="" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-                    </li><!-- redes-sociais -->
+                    <li><a href="<?php echo site_url('/'); ?>">HOME</a></li>
+                    <li>
+                        <a href="#">PRIMEIRA INFÂNCIA</a>
+                        <ul class="sub-menu">
+                            <li><a href="<?php echo site_url('diferenciais'); ?>">HISTÓRIA</a></li>
+                            <li><a href="<?php echo site_url('equipe'); ?>">EQUIPE</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#">TURMAS</a>
+                        <ul class="sub-menu">
+                            <li><a href="<?php echo site_url('turmas'); ?>">BERÇÁRIO</a></li>
+                            <li><a href="<?php echo site_url('turmas'); ?>">MATERNAL</a></li>
+                            <li><a href="<?php echo site_url('turmas'); ?>">PRÉ-ESCOLA</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="<?php echo site_url('atividade'); ?>">ATIVIDADES</a></li>
+                    <li><a href="<?php echo site_url(''); ?>">CALENDÁRIO</a></li>
+                    <li><a href="<?php echo site_url(''); ?>">BLOG</a></li>
+                    <li><a href="<?php echo site_url(''); ?>">CONTATO</a></li>
                 </ul><!-- .nav -->
             </div><!-- .navbar-collapse -->
         </div><!-- container -->

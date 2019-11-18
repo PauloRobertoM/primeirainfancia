@@ -5,12 +5,14 @@ require TEMPLATEPATH . DIRECTORY_SEPARATOR . 'Functions' . DIRECTORY_SEPARATOR .
 require TEMPLATEPATH . DIRECTORY_SEPARATOR . 'Functions' . DIRECTORY_SEPARATOR . 'Vitrines.php';
 require TEMPLATEPATH . DIRECTORY_SEPARATOR . 'Functions' . DIRECTORY_SEPARATOR . 'Atividades.php';
 require TEMPLATEPATH . DIRECTORY_SEPARATOR . 'Functions' . DIRECTORY_SEPARATOR . 'Experiencias.php';
+require TEMPLATEPATH . DIRECTORY_SEPARATOR . 'Functions' . DIRECTORY_SEPARATOR . 'Equipes.php';
 
 $Bootstrap = new Bootstrap;
 $Contato = new Contato;
 $Vitrines = new Vitrines;
 $Atividades = new Atividades;
 $Experiencias = new Experiencias;
+$Equipes = new Equipes;
 
 function new_excerpt_length($length) {
    return 999999999;
