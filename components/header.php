@@ -20,8 +20,8 @@
         <header>
             <div class="topo">
                 <div class="container">
-                    <h4><i class="fa fa-whatsapp" aria-hidden="true"></i> 41 99195.1167 - 41 3015.4029</h4>
-                    <ul>
+                    <h4 class="hidden-xs"><i class="fa fa-whatsapp" aria-hidden="true"></i> 41 99195.1167 - 41 3015.4029</h4>
+                    <ul class="hidden-xs">
                         <li><a href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                         <li><a href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                     </ul>
@@ -44,8 +44,21 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav">
                                 <li><a href="">HOME</a></li>
-                                <li><a href="">PRIMEIRA INFÂNCIA</a></li>
-                                <li><a href="">TURMAS</a></li>
+                                <li>
+                                    <a href="#">PRIMEIRA INFÂNCIA</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="">HISTÓRIA</a></li>
+                                        <li><a href="">EQUIPE</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="">TURMAS</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="">BERÇÁRIO</a></li>
+                                        <li><a href="">MATERNAL</a></li>
+                                        <li><a href="">PRÉ-ESCOLA</a></li>
+                                    </ul>
+                                </li>
                                 <li><a href="">ATIVIDADES</a></li>
                                 <li><a href="">CALENDÁRIO</a></li>
                                 <li><a href="">BLOG</a></li>

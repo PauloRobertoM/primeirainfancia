@@ -18,7 +18,7 @@
 						<img src="assets/images/item1.png">
 						<div class="content">
 							<h2>CRIANÇA</h2>
-							<p>dasda sdasdasd asdas das dasdasda.</p>
+							<p>As crianças dão sentido a tudo que fazemos. Buscamos que se sintam felizes, confiantes e cuidadas pois, a dedicação é 100% para elas.</p>
 						</div><!-- content -->
 					</div><!-- item -->
 				</div><!-- md-6 -->
@@ -26,8 +26,8 @@
 					<div class="item item2">
 						<img src="assets/images/item2.png">
 						<div class="content">
-							<h2>CRIANÇA</h2>
-							<p>dasda sdasdasd asdas das dasdasda.</p>
+							<h2>Educação</h2>
+							<p>A educação por meio de brincadeiras, estimula a criatividade e faz com que o futuro seja promissor.</p>
 						</div><!-- content -->
 					</div><!-- item -->
 				</div><!-- md-6 -->
@@ -35,8 +35,8 @@
 					<div class="item item3">
 						<img src="assets/images/item3.png">
 						<div class="content">
-							<h2>CRIANÇA</h2>
-							<p>dasda sdasdasd asdas das dasdasda.</p>
+							<h2>Acolhimento</h2>
+							<p>Acreditamos que o acolhimento gera amor, proteção e segurança. Por isso, priorizamos o atendimento humanizado e próximo da família.</p>
 						</div><!-- content -->
 					</div><!-- item -->
 				</div><!-- md-6 -->
@@ -44,8 +44,8 @@
 					<div class="item item4">
 						<img src="assets/images/item4.png">
 						<div class="content">
-							<h2>CRIANÇA</h2>
-							<p>dasda sdasdasd asdas das dasdasda.</p>
+							<h2>Equipe</h2>
+							<p>E para que tudo isso funcione bem, temos uma equipe unida e comprometida.</p>
 						</div><!-- content -->
 					</div><!-- item -->
 				</div><!-- md-6 -->
@@ -55,8 +55,9 @@
 
 	<section class="download">
 		<div class="container">
-			<a href=""><img src="assets/images/corpo-download.png" class="img-responsive"></a>
+			<a class="hidden-xs" href=""><img src="assets/images/corpo-download.png" class="img-responsive"></a>
 		</div><!-- container -->
+		<a class="visible-xs" href=""><img src="assets/images/corpo-download-mob.jpg" class="img-responsive"></a>
 	</section><!-- download -->
 
 	<section class="minha-casa">
@@ -67,7 +68,8 @@
 					<img src="assets/images/minha-casa.jpg" class="img-responsive">
 				</div><!-- md-6 -->
 				<div class="col-md-6 col-sm-6">
-					<p>a kjsn dasda sdas das d <strong>dkasjn</strong> dakj ndaksjdn ask jndask jdna.</p>
+					<p>A gente sabe que, para muitas famílias, boa parte do tempo do seu bem mais precioso é confiada a nós. É por isso que, na Primeira Infância, nós fazemos o possível para que a escola seja uma extensão da sua casa.</p>
+					<p><strong>Aqui, cada criança é conhecida pelo seu nome por todos da equipe:</strong> diretora, professoras, coordenadora, seguranças, tias da cozinha, limpeza, secretaria e recepção. Mantemos um relacionamento próximo com a família para que eles se sintam seguros e confiantes durante o período em que estiverem longe dos pequenos.</p>
 				</div><!-- md-6 -->
 			</div><!-- row -->
 			<a href="">CONFIRA TODAS AS NOSSAS ATIVIDADES</a>
@@ -81,26 +83,24 @@
 			<div class="owl-carousel owl-theme owl-depoimentos">
 				<div class="item">
 					<img src="assets/images/aspas1.png" class="aspas1">
-					<p>a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d.</p>
-					<p><strong>a kjsn dasda sdas</strong><br /><i>Psicologia</i></p>
+					<p>Considerando as características da etapa do Ensino Fundamental, espera-se que a criança tenha desenvolvido uma capacidade de autonomia suficiente para enfrentar alguns desafios do cotidiano, tanto no que se refere aos cuidados pessoais, organização de seus pertences, resolução de conflitos, tolerância às frustrações. Na escola de Educação Infantil, o professor de seu(sua) filho(a) é quem tem as melhores condições para identificar quais as potencialidades e necessidades da criança.</p>
+					<p><strong>Alessandra Janz</strong><br /><i>Psicologia</i></p>
 					<img src="assets/images/aspas2.png" class="aspas2">
 				</div><!-- item -->
 				<div class="item">
 					<img src="assets/images/aspas1.png" class="aspas1">
-					<p>a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d.</p>
-					<p><strong>a kjsn dasda sdas</strong><br /><i>Psicologia</i></p>
+					<p>Considerando as características da etapa do Ensino Fundamental, espera-se que a criança tenha desenvolvido uma capacidade de autonomia suficiente para enfrentar alguns desafios do cotidiano, tanto no que se refere aos cuidados pessoais, organização de seus pertences, resolução de conflitos, tolerância às frustrações. Na escola de Educação Infantil, o professor de seu(sua) filho(a) é quem tem as melhores condições para identificar quais as potencialidades e necessidades da criança.</p>
+					<p><strong>Alessandra Janz</strong><br /><i>Psicologia</i></p>
 					<img src="assets/images/aspas2.png" class="aspas2">
 				</div><!-- item -->
 				<div class="item">
 					<img src="assets/images/aspas1.png" class="aspas1">
-					<p>a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d a kjsn dasda sdas das d.</p>
-					<p><strong>a kjsn dasda sdas</strong><br /><i>Psicologia</i></p>
+					<p>Considerando as características da etapa do Ensino Fundamental, espera-se que a criança tenha desenvolvido uma capacidade de autonomia suficiente para enfrentar alguns desafios do cotidiano, tanto no que se refere aos cuidados pessoais, organização de seus pertences, resolução de conflitos, tolerância às frustrações. Na escola de Educação Infantil, o professor de seu(sua) filho(a) é quem tem as melhores condições para identificar quais as potencialidades e necessidades da criança.</p>
+					<p><strong>Alessandra Janz</strong><br /><i>Psicologia</i></p>
 					<img src="assets/images/aspas2.png" class="aspas2">
 				</div><!-- item -->
 			</div><!-- owl-carousel -->
 		</div><!-- container -->
 	</section><!-- experiencia -->
-	
-	<img src="assets/images/bg-depoimentos.jpg" class="img-responsive img-geral">
 	
 <?php include 'components/footer.php'; ?>
